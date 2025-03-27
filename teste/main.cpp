@@ -2,6 +2,8 @@
 #include <iomanip>
 #include <string>
 using namespace std;
+
+
 int main() {
 int idade;
 double salario, altura;

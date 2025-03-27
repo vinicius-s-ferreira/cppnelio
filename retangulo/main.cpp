@@ -2,6 +2,8 @@
 
 using namespace std;
 
+
+
 int main()
 {
     double base, altura, area, perimetro, diagonal;
